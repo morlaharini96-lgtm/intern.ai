@@ -1,4 +1,4 @@
-https://github.com/morlaharini96/intern.ai
+https://github.com/morlaharini96-igtm/intern.ai
 # intern.ai
 Intern.ai is a student-focused career guidance and internship support platform designed to help students identify skills, explore opportunities, and improve career growth.
 
