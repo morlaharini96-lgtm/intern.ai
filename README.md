@@ -1,4 +1,4 @@
-https://github.com/morlaharini96-igtm/smart move-intern
+https://github.com/morlaharini96-igtm/smartmove-intern
 
 # smart move intern
 smart mov intern is a student-focused career guidance and internship support platform designed to help students identify skills, explore opportunities, and improve career growth.
