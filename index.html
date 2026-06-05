@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Intern.ai - Find Your Internship</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="header">
+    <h1>🎓 Intern.ai</h1>
+    <p>AI-powered internship finder for students</p>
+  </div>
+
+  <div class="container">
+    <div id="step1" class="card">
+      <h2>What's your name?</h2>
+      <input type="text" id="nameInput" placeholder="Enter your name..."/>
+      <button onclick="goToStep2()">Let's Go →</button>
+    </div>
+
+    <div id="step2" class="card hidden">
+      <h2 id="greeting"></h2>
+      <p>Select your interest:</p>
+      <div id="interests"></div>
+      <button onclick="findInternships()">Find Internships 🔍</button>
+    </div>
+
+    <div id="step3" class="card hidden">
+      <div id="results"></div>
+      <button onclick="goBack()">← Try Another</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
